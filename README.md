@@ -12,7 +12,7 @@ language:
 
 ## Origin
 
-- **Source dataset**: `stanfordnlp/imdb`
+- **Source dataset**: `stanfordnlp/sst2`
 - **Source license**: cc-by-4.0
 - **Curated by**: Data Platform Team
 - **Last audited**: 2026-08-20
