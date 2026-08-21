@@ -1,0 +1,9 @@
+{
+  "dataset_name": "Curated Customer Reviews",
+  "source_dataset": "stanfordnlp/sst2",
+  "source_license": "cc-by-4.0",
+  "record_count": 2000,
+  "task_category": "text-classification",
+  "owner_team": "Data Platform Team",
+  "last_audited": "2026-08-20"
+}
